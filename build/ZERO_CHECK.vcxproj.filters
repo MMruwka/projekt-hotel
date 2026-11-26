@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mateusz.Maj\Desktop\Studia\sem 3\SOlab\proj\code\build\CMakeFiles\a2e16a71b0ae90173c628f4977535724\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3E9AAA91-8F3A-3B3B-A548-7B840594C676}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

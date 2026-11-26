@@ -1,0 +1,10 @@
+^C:\USERS\MATEUSZ.MAJ\DESKTOP\STUDIA\SEM 3\SOLAB\PROJ\CODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Mateusz.Maj/Desktop/Studia/sem 3/SOlab/proj/code" "-BC:/Users/Mateusz.Maj/Desktop/Studia/sem 3/SOlab/proj/code/build" --check-stamp-file "C:/Users/Mateusz.Maj/Desktop/Studia/sem 3/SOlab/proj/code/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
