@@ -1,0 +1,12 @@
+# Foldery budowania CMake
+build/
+out/
+
+# Ustawienia lokalne VS Code
+.vscode/
+
+# Pliki skompilowane (gdyby przypadkiem trafiły poza build)
+*.exe
+*.obj
+*.pdb
+*.ilk
