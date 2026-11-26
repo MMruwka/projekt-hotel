@@ -1,3 +1,0 @@
-C:/Users/Mateusz.Maj/Desktop/Studia/sem 3/SOlab/proj/code/build/CMakeFiles/MojDuzyProjekt.dir
-C:/Users/Mateusz.Maj/Desktop/Studia/sem 3/SOlab/proj/code/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Mateusz.Maj/Desktop/Studia/sem 3/SOlab/proj/code/build/CMakeFiles/ZERO_CHECK.dir
